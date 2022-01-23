@@ -1,0 +1,14 @@
+.home{
+    flex: 4;
+}
+
+.homeWidgets{
+    display: flex;
+    margin: 20px;
+}
+
+
+.ff{
+    background-color: #e9ecef;
+    padding: 30px;
+}
