@@ -1,0 +1,11 @@
+1.Xaamp Installation
+2.my sql remove cheylai
+3.xaamp lo apache and my sql start cheyali
+4.xampp lo my sql daggara Admin button click cheyali
+import the result2.sql file to the admin dashboard
+5.result folder terminal open chesi "python manage.py runserver"
+6.vachina errors anni install chesukovali
+7.at last anni aipoyaka server start avuthadi
+8.now open frontend folder terminal open chesi "npm i" command run cheyali
+9.Server ip address will be in the result terminal like "http://127.0.0.1:8000/"
+10.django admin dashboard ki "http://127.0.0.1:8000/admin/webstudent/semester/"
